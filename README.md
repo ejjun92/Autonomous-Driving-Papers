@@ -27,8 +27,9 @@ format:
 
 ### General Machine Learning
 
-- Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios [[Paper](), [Code]()]
+- Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios [[Paper](https://arxiv.org/abs/2212.11419)]
   - Yiren Lu, Justin Fu, George Tucker, Xinlei Pan, Eli Bronstein, Becca Roelofs, Benjamin Sapp, Brandyn White, Aleksandra Faust, Shimon Whiteson, Dragomir Anguelov, Sergey Levine (Waymo Research, Google Research)
   - ML4AD@NeurIPS 2022
+ 
   
 

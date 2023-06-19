@@ -2,11 +2,11 @@
 🚘 A curated list of papers in autonomous driving
 
 ## Table of Contents
-* [Perception](#foundations)
-* [Behavior Prediction](#courses)
-* [Planning](#papers)
-* [Simulation](#research-labs)
-* [General Machine Learning](#datasets)
+* [Perception](#perception)
+* [Behavior Prediction](#behavior-prediction)
+* [Planning](#planning)
+* [Simulation](#simulation)
+* [General Machine Learning](#general-machine-learning)
 
 ### Perception
 

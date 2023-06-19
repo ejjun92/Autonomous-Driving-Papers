@@ -8,6 +8,15 @@
 * [Simulation](#simulation)
 * [General Machine Learning](#general-machine-learning)
 
+```
+format:
+- title [paper link, code link]
+  - authors (institution)
+  - publisher
+  - keywords
+  - experiment environment
+```
+
 ### Perception
 
 ### Behavior Prediction
@@ -17,3 +26,9 @@
 ### Simulation
 
 ### General Machine Learning
+
+- Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios [[Paper](), [Code]()]
+  - Yiren Lu, Justin Fu, George Tucker, Xinlei Pan, Eli Bronstein, Becca Roelofs, Benjamin Sapp, Brandyn White, Aleksandra Faust, Shimon Whiteson, Dragomir Anguelov, Sergey Levine (Waymo Research, Google Research)
+  - ML4AD@NeurIPS 2022
+  
+

@@ -24,7 +24,7 @@ format:
 
 - Embedding Synthetic Off-Policy Experience for Autonomous Driving via Zero-Shot Curricula [[Paper](https://openreview.net/forum?id=cF1dxVGxic-), [Summary]()]
   - Eli Bronstein, Sirish Srinivasan, Supratik Paul, Aman Sinha, Matthew O'Kelly, Payam Nikdel, Shimon Whiteson (Waymo)
-  - CoRL 2022 Oral
+  - CoRL 2022 Oral
   - Imitation Learning (IL)
 
     

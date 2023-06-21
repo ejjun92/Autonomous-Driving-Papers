@@ -25,7 +25,7 @@ format:
 - Embedding Synthetic Off-Policy Experience for Autonomous Driving via Zero-Shot Curricula [[Paper](https://openreview.net/forum?id=cF1dxVGxic-), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/2#issue-1766793203)]
   - Eli Bronstein, Sirish Srinivasan, Supratik Paul, Aman Sinha, Matthew O'Kelly, Payam Nikdel, Shimon Whiteson (Waymo)
   - CoRL 2022 Oral
-  - Imitation Learning (IL)
+  - Imitation Learning, Curriculum Learning
 
     
 ### Simulation
@@ -35,4 +35,4 @@ format:
 - Imitation Is Not Enough: Robustifying Imitation with Reinforcement Learning for Challenging Driving Scenarios [[Paper](https://arxiv.org/abs/2212.11419), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/1#issue-1762768235)]
   - Yiren Lu, Justin Fu, George Tucker, Xinlei Pan, Eli Bronstein, Becca Roelofs, Benjamin Sapp, Brandyn White, Aleksandra Faust, Shimon Whiteson, Dragomir Anguelov, Sergey Levine (Waymo Research, Google Research)
   - ML4AD@NeurIPS 2022
-  - Imitation Learning (IL), Reinforcement Learning (RL)
+  - Imitation Learning, Reinforcement Learning

@@ -36,3 +36,9 @@ format:
   - Yiren Lu, Justin Fu, George Tucker, Xinlei Pan, Eli Bronstein, Becca Roelofs, Benjamin Sapp, Brandyn White, Aleksandra Faust, Shimon Whiteson, Dragomir Anguelov, Sergey Levine (Waymo Research, Google Research)
   - ML4AD@NeurIPS 2022
   - Imitation Learning, Reinforcement Learning
+ 
+- Online Decision Transformer [[Paper](https://proceedings.mlr.press/v162/zheng22c/zheng22c.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/3#issue-1769076735)]
+  - Qinqing Zheng, Amy Zhang, Aditya Grover (Meta AI Research, University of California, University of California)
+  - ICML 2022 Oral
+  - Reinforcement Learning
+ 

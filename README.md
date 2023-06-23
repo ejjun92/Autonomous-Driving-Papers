@@ -42,3 +42,8 @@ format:
   - ICML 2022 Oral
   - Reinforcement Learning
  
+- Accelerating Online Reinforcement Learning with Offline Datasets [[Paper](https://arxiv.org/pdf/2006.09359), [Summary]()]
+  - Qinqing Zheng, Amy Zhang, Aditya Grover (Meta AI Research, University of California, University of California)
+  - CoRR 2021
+  - Reinforcement Learning
+ 

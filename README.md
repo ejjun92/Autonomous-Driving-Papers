@@ -42,12 +42,12 @@ format:
   - ICML 2022 Oral
   - Reinforcement Learning
  
-- Accelerating Online Reinforcement Learning with Offline Datasets [[Paper](https://arxiv.org/pdf/2006.09359), [Summary]()]
+- Accelerating Online Reinforcement Learning with Offline Datasets [[Paper](https://arxiv.org/pdf/2006.09359), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/4#issue-1770679922)]
   - Ashvin Nair, Abhishek Gupta, Murtaza Dalal, Sergey Levine (UC Berkeley)
   - CoRR 2021
   - Reinforcement Learning
 
-- Test-Time Robust Personalization for Federated Learning [[Paper](https://openreview.net/pdf?id=3aBuJEza5sq), [Summary]()]
+- Test-Time Robust Personalization for Federated Learning [[Paper](https://openreview.net/pdf?id=3aBuJEza5sq), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers)]
   - Liangze Jiang, Tao Lin (Westlake University, EPFL)
   - ICLR 2023
   - Federated Learning

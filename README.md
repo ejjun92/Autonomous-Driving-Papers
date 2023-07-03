@@ -47,12 +47,12 @@ format:
   - CoRR 2021
   - Reinforcement Learning
 
-- Test-Time Robust Personalization for Federated Learning [[Paper](https://openreview.net/pdf?id=3aBuJEza5sq), [Summary]()]
+- Test-Time Robust Personalization for Federated Learning [[Paper](https://openreview.net/pdf?id=3aBuJEza5sq), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/5#issue-1776125813)]
   - Liangze Jiang, Tao Lin (Westlake University, EPFL)
   - ICLR 2023
   - Federated Learning
  
-- Tent: Fully Test-Time Adaptation by Entropy Minimization [[Paper](https://openreview.net/pdf?id=uXl3bZLkr3c), [Summary]()]
+- Tent: Fully Test-Time Adaptation by Entropy Minimization [[Paper](https://openreview.net/pdf?id=uXl3bZLkr3c), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/6#issue-1785078933)]
   - Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell (UC Berkeley, Adobe Research)
   - ICLR 2021
   - Test-time Adaptation

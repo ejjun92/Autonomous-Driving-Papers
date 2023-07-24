@@ -62,7 +62,7 @@ format:
   - CVPR 2022
   - Test-time Adaptation
  
-  - TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive? [[Paper](https://proceedings.neurips.cc/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/6#issue-1785078933)]
+- TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive? [[Paper](https://proceedings.neurips.cc/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/6#issue-1785078933)]
   - Yuejiang Liu, Parth Kothari, Bastien van Delft, Baptiste Bellot-Gurlet, Taylor Mordan, Alexandre Alahi (EPFL)
   - NeurIPS 2021
   - Test-time Adaptation

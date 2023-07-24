@@ -56,3 +56,13 @@ format:
   - Dequan Wang, Evan Shelhamer, Shaoteng Liu, Bruno Olshausen, Trevor Darrell (UC Berkeley, Adobe Research)
   - ICLR 2021
   - Test-time Adaptation
+
+- Continual Test-Time Domain Adaptation [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Continual_Test-Time_Domain_Adaptation_CVPR_2022_paper.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/7#issue-1809117336)]
+  - Qin Wang, Olga Fink, Luc Van Gool, Dengxin Dai (ETH Zurich, MPI for Informatics, EPFL, KU Lueven)
+  - CVPR 2022
+  - Test-time Adaptation
+ 
+  - TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive? [[Paper](https://proceedings.neurips.cc/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/6#issue-1785078933)]
+  - Yuejiang Liu, Parth Kothari, Bastien van Delft, Baptiste Bellot-Gurlet, Taylor Mordan, Alexandre Alahi (EPFL)
+  - NeurIPS 2021
+  - Test-time Adaptation

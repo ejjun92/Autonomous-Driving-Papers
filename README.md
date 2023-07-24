@@ -62,7 +62,22 @@ format:
   - CVPR 2022
   - Test-time Adaptation
  
-- TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive? [[Paper](https://proceedings.neurips.cc/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/6#issue-1785078933)]
+- TTT++: When Does Self-Supervised Test-Time Training Fail or Thrive? [[Paper](https://proceedings.neurips.cc/paper/2021/file/b618c3210e934362ac261db280128c22-Paper.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/8#issue-1817387099)]
   - Yuejiang Liu, Parth Kothari, Bastien van Delft, Baptiste Bellot-Gurlet, Taylor Mordan, Alexandre Alahi (EPFL)
   - NeurIPS 2021
+  - Test-time Adaptation
+
+- MEMO: Test time robustness via adaptation and augmentation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/fc28053a08f59fccb48b11f2e31e81c7-Paper-Conference.pdf), [Summary]()]
+  - Marvin Zhang, Sergey Levine, Chelsea Finn (UC Berkeley, Stanford University)
+  - NeurIPS 2022 
+  - Test-time Adaptation
+    
+- Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition [[Paper](https://ui.adsabs.harvard.edu/link_gateway/2021arXiv210709249Z/EPRINT_PDF), [Summary]()]
+  - Yifan Zhang, Bryan Hooi, Lanqing Hong, Jiashi Feng (National University of Singapore, Huawei Noah’s Ark Lab, ByteDance)
+  - arXiv 2021
+  - Test-time Adaptation
+    
+- Test-Time Classifier Adjustment Module for Model-Agnostic Domain Generalization [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/1415fe9fea0fa1e45dddcff5682239a0-Paper.pdf), [Summary]()]
+  - Yusuke Iwasawa, Yutaka Matsuo (The University of Tokyo)
+  - NeurIPS 2021 
   - Test-time Adaptation

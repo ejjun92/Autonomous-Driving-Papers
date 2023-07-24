@@ -67,7 +67,7 @@ format:
   - NeurIPS 2021
   - Test-time Adaptation
 
-- MEMO: Test time robustness via adaptation and augmentation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/fc28053a08f59fccb48b11f2e31e81c7-Paper-Conference.pdf), [Summary]()]
+- MEMO: Test time robustness via adaptation and augmentation [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/fc28053a08f59fccb48b11f2e31e81c7-Paper-Conference.pdf), [Summary](https://github.com/ejjun92/Autonomous-Driving-Papers/issues/9#issue-1817473365)]
   - Marvin Zhang, Sergey Levine, Chelsea Finn (UC Berkeley, Stanford University)
   - NeurIPS 2022 
   - Test-time Adaptation

@@ -71,6 +71,11 @@ format:
   - Marvin Zhang, Sergey Levine, Chelsea Finn (UC Berkeley, Stanford University)
   - NeurIPS 2022 
   - Test-time Adaptation
+
+- When Foundation Model Meets Federated Learning: Motivations, Challenges, and Future Directions [[Paper](https://arxiv.org/pdf/2306.15546), [Summary]()]
+  - Weiming Zhuang, Chen Chen, Lingjuan Lyu (SONY AI)
+  - arXiv 2023
+  - Federated Learning
     
 - Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition [[Paper](https://ui.adsabs.harvard.edu/link_gateway/2021arXiv210709249Z/EPRINT_PDF), [Summary]()]
   - Yifan Zhang, Bryan Hooi, Lanqing Hong, Jiashi Feng (National University of Singapore, Huawei Noah’s Ark Lab, ByteDance)

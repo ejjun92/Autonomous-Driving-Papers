@@ -16,6 +16,15 @@ format:
   - keywords
 ```
 
+### LLM4AD
+
+- A Language Agent for Autonomous Driving [[Paper](https://arxiv.org/pdf/2311.10813.pdf), [Summary]()]
+  - Jiageng Mao, Junjie Ye, Yuxi Qian, Marco Pavone, Yue Wang (University of Southern California, Stanford University, NVIDIA)
+  - arXiv 2023
+  - LLM
+
+
+
 ### Perception
 
 ### Behavior Prediction
